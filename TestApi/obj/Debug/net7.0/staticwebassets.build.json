@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RyFynb71ZiAfGm1eWWLsZ0VIsjrts48yybdesOFMthc=",
+  "Source": "TestApi",
+  "BasePath": "_content/TestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestApi\\wwwroot",
+      "Source": "TestApi",
+      "ContentRoot": "D:\\New folder\\repos\\TestApiMain-master\\TestApi\\wwwroot\\",
+      "BasePath": "_content/TestApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

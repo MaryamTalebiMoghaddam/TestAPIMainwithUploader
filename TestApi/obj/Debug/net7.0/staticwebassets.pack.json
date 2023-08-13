@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder\\repos\\TestApiMain-master\\TestApi\\wwwroot\\Uploads\\64fe6a6f-13c7-4380-8c6e-11d063ebf6e3.docx",
+      "PackagePath": "staticwebassets\\Uploads\\64fe6a6f-13c7-4380-8c6e-11d063ebf6e3.docx"
+    },
+    {
+      "Id": "D:\\New folder\\repos\\TestApiMain-master\\TestApi\\wwwroot\\Uploads\\af812164-4641-45f9-a720-3aab6c305bee.docx",
+      "PackagePath": "staticwebassets\\Uploads\\af812164-4641-45f9-a720-3aab6c305bee.docx"
+    },
+    {
+      "Id": "D:\\New folder\\repos\\TestApiMain-master\\TestApi\\wwwroot\\Uploads\\ee93710b-750b-4ff1-b624-1747a739da5f.docx",
+      "PackagePath": "staticwebassets\\Uploads\\ee93710b-750b-4ff1-b624-1747a739da5f.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TestApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TestApi.props",
+      "PackagePath": "build\\TestApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TestApi.props",
+      "PackagePath": "buildMultiTargeting\\TestApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TestApi.props",
+      "PackagePath": "buildTransitive\\TestApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
